@@ -15,11 +15,11 @@
 	--border-radius-base: 4px;
 
 	/* Colors */
-	--color-text: #7c7c7c;
-	--color-text-link: #326b9b;
-	--color-text-link-hover: #c36;
-	--color-text-heading: #4b4b4b;
-	--color-background: #fff;
+	--color-text: #1e293b;
+	--color-text-link: #f59e0b;
+	--color-text-link-hover: #d97706;
+	--color-text-heading: #0f172a;
+	--color-background: #f8fafc;
 
 	/* Alerts */
 	--alert-border-color: #fff;
@@ -40,14 +40,7 @@
 	--icon-color-lightblue: #6eb6f0;
 
 	/* Top Bar */
-	--top-bar-background:
-		linear-gradient(
-			to bottom,
-			rgb(104 145 196 / 100%) 0%,
-			rgb(69 114 181 / 100%) 50%,
-			rgb(65 90 149 / 100%) 100%
-		),
-		#5070a6;
+	--top-bar-background: #0f172a;
 	--top-bar-box-shadow: 0 4px 10px rgb(100 100 100 / 40%);
 	--top-bar-border-bottom: 1px solid #fff;
 
